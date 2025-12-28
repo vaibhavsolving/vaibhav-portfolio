@@ -9,7 +9,6 @@ The website is fully responsive, interactive, and deployed as a static site.
 
 ## 🔗 Live Demo
 👉 [View Portfolio](https://vaibhavsolving.github.io/vaibhav-portfolio/)
-View Portfolio:https://vaibhavsolving.github.io/vaibhav-portfolio/
 
 ---
 
